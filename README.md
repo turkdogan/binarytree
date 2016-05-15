@@ -1,2 +1,2 @@
 # binarytree
-A Simple Implementation of Binary Tree in Python
+A simple implementation of binary tree data structure in Python
